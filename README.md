@@ -1,7 +1,10 @@
-# NoteSK 
-*An addon to add useful elements to noteblocks*
+# NoteSK
+A *updated* version of FunkySK, This addon aims to support version 1.20.4+ and skript version 2.8.7
 
-What is NoteSK? NoteSk is a skript addon that aims
-to add full support from NoteBlock Studio into Skript.
-*This addon is a newer version of FunkySK*
+# Features
+- Stopping, Playing, Pausing .nbs Songs
+
+# Notes
+- This is not a fork from FunkySk Syntax is different
+
 
